@@ -1,0 +1,74 @@
+[
+  {
+    "hour": 18,
+    "day_of_week": 6,
+    "month": 3,
+    "is_weekend": 1,
+    "community_area_id": 35,
+    "distance_to_nearest_station": 1142.6589227030904,
+    "stations_within_500m": 0,
+    "community_type": "Distressed",
+    "top_3_predictions": [
+      {
+        "label": "Violent",
+        "probability": 0.20891782954090485
+      },
+      {
+        "label": "Other",
+        "probability": 0.18830622316085385
+      },
+      {
+        "label": "Property",
+        "probability": 0.1804040282386866
+      }
+    ]
+  },
+  {
+    "hour": 12,
+    "day_of_week": 1,
+    "month": 12,
+    "is_weekend": 0,
+    "community_area_id": 72,
+    "distance_to_nearest_station": 3555.474971574817,
+    "stations_within_500m": 0,
+    "community_type": "Prosperous",
+    "top_3_predictions": [
+      {
+        "label": "Other",
+        "probability": 0.3005170469490342
+      },
+      {
+        "label": "Property",
+        "probability": 0.28681176997143526
+      },
+      {
+        "label": "Sexual",
+        "probability": 0.16209532256184128
+      }
+    ]
+  },
+  {
+    "hour": 15,
+    "day_of_week": 3,
+    "month": 8,
+    "is_weekend": 0,
+    "community_area_id": 26,
+    "distance_to_nearest_station": 727.4445135937698,
+    "stations_within_500m": 0,
+    "community_type": "Distressed",
+    "top_3_predictions": [
+      {
+        "label": "Vice",
+        "probability": 0.4281978591768659
+      },
+      {
+        "label": "Public Order",
+        "probability": 0.18582268024920268
+      },
+      {
+        "label": "Violent",
+        "probability": 0.13363261888194605
+      }
+    ]
+  }
+]
